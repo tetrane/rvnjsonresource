@@ -1,4 +1,4 @@
-# rvnjsonresource: a library to write and read JSON resources for REVEN.
+# rvnjsonresource: a library to write and read JSON resources for Reven.
 
 ## License
 
